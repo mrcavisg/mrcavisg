@@ -1,6 +1,6 @@
   # Caio Vinicius F. Cunha                                                                                            
                                                                                                                       
-  Founder of [CFATech](https://cfatech.com.br) | 15+ years shipping software | Building tools that automate what      
+  Founder of [CFATech](https://cfatech.com.br) | 5+ years shipping software | Building tools that automate what      
   shouldn't be manual.                   
 
   I build full stack applications, security infrastructure, and AI-powered automations for businesses that need things
