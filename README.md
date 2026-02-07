@@ -22,6 +22,8 @@
   ## Open Source
 
   - [Sky Map](https://github.com/sky-map-team/stardroid) — Contributor to Android planetarium app (10k+ stars)
+  - [LerianStudio/midaz](https://github.com/LerianStudio/midaz) — Fixed nullable fields handling in PATCH requests (Go)
+
 
   ## Tech I work with
 
